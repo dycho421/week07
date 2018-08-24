@@ -1,6 +1,6 @@
 var x = 50;
 var y = 200;
-var speed = 5;
+var speed = 2;
 
 var sound, amplitude;
 
